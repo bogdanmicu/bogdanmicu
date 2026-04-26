@@ -6,7 +6,7 @@
 @@ Java Developer | Embedded Systems Enthusiast | Hackathon Competitor @@
 
 > Turning complex problems into efficient algorithms;
-> Building modular, high-performance applications with Java and OOP.
+> Building modular, high-performance applications with Java and OOP;
 > Exploring RPA, deep learning, and robust software architecture;
 > Passionate about all things tech, from bare-metal microcontrollers to high-level architecture;
 
