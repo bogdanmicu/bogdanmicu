@@ -12,7 +12,7 @@
 
 ! 3rd Place @ Cursor Hackathon
 ! Semi-Finalist @ InnovationLabs Romania 2026
-! Finalist @ IMC Prosperity 4
+! Finalist @ IMC Prosperity 4 (Top 8.3% Global)
 ! Top 22 @ CloudFlight Coding Contest 2025
 ```
 
