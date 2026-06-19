@@ -10,6 +10,7 @@
 > Exploring RPA, deep learning, and robust software architecture;
 > Passionate about all things tech, from bare-metal microcontrollers to high-level architecture;
 
+! 3rd Place @ Google Student AI Hackathon
 ! 3rd Place @ Cursor Hackathon
 ! Finalist @ InnovationLabs Romania 2026
 ! Finalist @ IMC Prosperity 4 (Top 8.3% Global)
@@ -18,8 +19,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** A standalone embedded security device built on a STM32 microcontroller. It acts as a USB HID keyboard for password injection and generates live HMAC-SHA1 TOTP codes via a hardware RTC, all secured behind a fingerprint scanner and an OLED Display for the UI.
-- 🌱 **Currently exploring:** Algorithmic trading strategies and quantitative financial modeling.
+- 🧠 **Currently focusing on**: Strengthening my algorithmic foundations and problem-solving grit, translating complex logical challenges into highly optimized code.
+- 🌱 **Currently exploring:** Algorithmic trading and prediction strategies as well as quantitative financial modeling.
 - 👯 **Volunteering as:** A Technical Trainer at the RoboForgers Robotics Club, where I teach C/C++ programming and sensor integration for autonomous robots.
 - 📫 **How to reach me:** Find my full CV and connect with me on [LinkedIn](https://www.linkedin.com/in/bogdanmicu1/).
 
